@@ -497,6 +497,3 @@ The retro-photography background is a non-photographic graphic asset created spe
 PhotoFlow is designed toward **WCAG 2.2 Level AA**. The interface includes keyboard-visible focus states, semantic headings and controls, accessible labels for interactive elements, live status announcements, reduced-motion support, responsive controls, and sufficient pointer target sizing.
 
 This is an implementation goal, not a formal conformance claim. A complete WCAG assessment still requires testing the running application with keyboard-only navigation, screen readers, zoom/reflow, contrast analysis, and representative assistive technologies.
-
-
-Accessibility details and manual WCAG 2.2 AA verification guidance are documented in `docs/ACCESSIBILITY.md`.
