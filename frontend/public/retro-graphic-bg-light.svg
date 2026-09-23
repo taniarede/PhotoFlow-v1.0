@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" width="1600" height="1100" preserveAspectRatio="xMidYMid slice">
+  <rect width="1600" height="1100" fill="#f6f1e6"/>
+
+  <!-- paper collage -->
+  <g opacity="0.98">
+    <rect x="-140" y="760" width="720" height="360" rx="20" transform="rotate(-8 -140 760)" fill="#faf4e7"/>
+    <rect x="1020" y="-70" width="660" height="390" rx="18" transform="rotate(8 1020 -70)" fill="#f8f0dc"/>
+    <rect x="480" y="-120" width="560" height="300" rx="16" transform="rotate(-10 480 -120)" fill="#fcf6eb"/>
+  </g>
+
+  <!-- retro color blocks -->
+  <circle cx="1310" cy="220" r="250" fill="#e76944"/>
+  <circle cx="230" cy="930" r="300" fill="#56aaae"/>
+  <rect x="780" y="820" width="360" height="180" rx="90" fill="#efbe56" transform="rotate(-14 780 820)"/>
+  <rect x="1180" y="660" width="520" height="170" rx="85" fill="#408fd6" transform="rotate(17 1180 660)"/>
+
+  <!-- halftone field -->
+  <g fill="#f8f0df" opacity="0.34">
+    <circle cx="1110" cy="115" r="4"/><circle cx="1136" cy="115" r="4"/><circle cx="1162" cy="115" r="4"/><circle cx="1188" cy="115" r="4"/><circle cx="1214" cy="115" r="4"/>
+    <circle cx="1110" cy="141" r="4"/><circle cx="1136" cy="141" r="4"/><circle cx="1162" cy="141" r="4"/><circle cx="1188" cy="141" r="4"/><circle cx="1214" cy="141" r="4"/>
+    <circle cx="1110" cy="167" r="4"/><circle cx="1136" cy="167" r="4"/><circle cx="1162" cy="167" r="4"/><circle cx="1188" cy="167" r="4"/><circle cx="1214" cy="167" r="4"/>
+    <circle cx="1110" cy="193" r="4"/><circle cx="1136" cy="193" r="4"/><circle cx="1162" cy="193" r="4"/><circle cx="1188" cy="193" r="4"/><circle cx="1214" cy="193" r="4"/>
+  </g>
+
+  <!-- film strip diagonal -->
+  <g transform="translate(180 160) rotate(-18 620 120)">
+    <rect x="-80" y="40" width="1500" height="150" rx="18" fill="#2d3540" stroke="#f5eee1" stroke-width="5"/>
+    <rect x="-60" y="64" width="1460" height="102" rx="10" fill="#3f4854" stroke="#d8ceb9" stroke-width="2"/>
+    <g fill="#d8ceb9">
+      <rect x="-35" y="52" width="38" height="18" rx="3"/><rect x="30" y="52" width="38" height="18" rx="3"/>
+      <rect x="95" y="52" width="38" height="18" rx="3"/><rect x="160" y="52" width="38" height="18" rx="3"/>
+      <rect x="225" y="52" width="38" height="18" rx="3"/><rect x="290" y="52" width="38" height="18" rx="3"/>
+      <rect x="355" y="52" width="38" height="18" rx="3"/><rect x="420" y="52" width="38" height="18" rx="3"/>
+      <rect x="485" y="52" width="38" height="18" rx="3"/><rect x="550" y="52" width="38" height="18" rx="3"/>
+      <rect x="615" y="52" width="38" height="18" rx="3"/><rect x="680" y="52" width="38" height="18" rx="3"/>
+      <rect x="745" y="52" width="38" height="18" rx="3"/><rect x="810" y="52" width="38" height="18" rx="3"/>
+      <rect x="875" y="52" width="38" height="18" rx="3"/><rect x="940" y="52" width="38" height="18" rx="3"/>
+      <rect x="1005" y="52" width="38" height="18" rx="3"/><rect x="1070" y="52" width="38" height="18" rx="3"/>
+      <rect x="1135" y="52" width="38" height="18" rx="3"/><rect x="1200" y="52" width="38" height="18" rx="3"/>
+      <rect x="1265" y="52" width="38" height="18" rx="3"/><rect x="1330" y="52" width="38" height="18" rx="3"/>
+      <rect x="-35" y="160" width="38" height="18" rx="3"/><rect x="30" y="160" width="38" height="18" rx="3"/>
+      <rect x="95" y="160" width="38" height="18" rx="3"/><rect x="160" y="160" width="38" height="18" rx="3"/>
+      <rect x="225" y="160" width="38" height="18" rx="3"/><rect x="290" y="160" width="38" height="18" rx="3"/>
+      <rect x="355" y="160" width="38" height="18" rx="3"/><rect x="420" y="160" width="38" height="18" rx="3"/>
+      <rect x="485" y="160" width="38" height="18" rx="3"/><rect x="550" y="160" width="38" height="18" rx="3"/>
+      <rect x="615" y="160" width="38" height="18" rx="3"/><rect x="680" y="160" width="38" height="18" rx="3"/>
+      <rect x="745" y="160" width="38" height="18" rx="3"/><rect x="810" y="160" width="38" height="18" rx="3"/>
+      <rect x="875" y="160" width="38" height="18" rx="3"/><rect x="940" y="160" width="38" height="18" rx="3"/>
+      <rect x="1005" y="160" width="38" height="18" rx="3"/><rect x="1070" y="160" width="38" height="18" rx="3"/>
+      <rect x="1135" y="160" width="38" height="18" rx="3"/><rect x="1200" y="160" width="38" height="18" rx="3"/>
+      <rect x="1265" y="160" width="38" height="18" rx="3"/><rect x="1330" y="160" width="38" height="18" rx="3"/>
+    </g>
+  </g>
+
+  <!-- stylized retro camera -->
+  <g transform="translate(70 390)">
+    <rect x="0" y="70" width="470" height="290" rx="48" fill="#dee4e8" stroke="#f7efe1" stroke-width="8"/>
+    <rect x="65" y="28" width="160" height="78" rx="22" fill="#dee4e8" stroke="#f7efe1" stroke-width="8"/>
+    <circle cx="245" cy="215" r="118" fill="#eef1ef" stroke="#408fd6" stroke-width="12"/>
+    <circle cx="245" cy="215" r="82" fill="none" stroke="#f5eddc" stroke-width="8"/>
+    <circle cx="245" cy="215" r="40" fill="#e76944" stroke="#f5eddc" stroke-width="7"/>
+    <g stroke="#408fd6" stroke-width="8" stroke-linecap="round">
+      <line x1="245" y1="118" x2="245" y2="150"/><line x1="245" y1="280" x2="245" y2="312"/>
+      <line x1="148" y1="215" x2="180" y2="215"/><line x1="310" y1="215" x2="342" y2="215"/>
+      <line x1="176" y1="146" x2="198" y2="168"/><line x1="292" y1="262" x2="314" y2="284"/>
+      <line x1="314" y1="146" x2="292" y2="168"/><line x1="198" y1="262" x2="176" y2="284"/>
+    </g>
+    <rect x="355" y="112" width="72" height="28" rx="14" fill="#efbe56"/>
+    <rect x="40" y="120" width="70" height="34" rx="12" fill="#40aea1"/>
+  </g>
+
+  <!-- framed prints -->
+  <g transform="translate(610 650) rotate(8)">
+    <rect width="290" height="210" fill="#faf4e7" stroke="#f6f1e6" stroke-width="9"/>
+    <rect x="22" y="22" width="246" height="166" fill="#173b55"/>
+    <path d="M24 155 L94 96 L145 138 L195 80 L267 156" fill="#408fd6"/>
+    <circle cx="207" cy="64" r="23" fill="#efbe56"/>
+  </g>
+  <g transform="translate(970 710) rotate(-9)">
+    <rect width="300" height="215" fill="#faf4e7" stroke="#f6f1e6" stroke-width="9"/>
+    <rect x="22" y="22" width="256" height="171" fill="#e76944"/>
+    <circle cx="145" cy="102" r="60" fill="#dee4e8" stroke="#f1e5cf" stroke-width="8"/>
+    <circle cx="145" cy="102" r="22" fill="#408fd6"/>
+  </g>
+
+  <!-- aperture ring -->
+  <g transform="translate(1380 760)">
+    <circle r="120" fill="none" stroke="#faf4e7" stroke-width="16"/>
+    <circle r="86" fill="none" stroke="#408fd6" stroke-width="12"/>
+    <circle r="48" fill="#e76944"/>
+    <g stroke="#efbe56" stroke-width="10" stroke-linecap="round">
+      <line x1="0" y1="-112" x2="0" y2="-82"/><line x1="0" y1="82" x2="0" y2="112"/>
+      <line x1="-112" y1="0" x2="-82" y2="0"/><line x1="82" y1="0" x2="112" y2="0"/>
+      <line x1="-79" y1="-79" x2="-58" y2="-58"/><line x1="58" y1="58" x2="79" y2="79"/>
+      <line x1="79" y1="-79" x2="58" y2="-58"/><line x1="-58" y1="58" x2="-79" y2="79"/>
+    </g>
+  </g>
+
+  <!-- small viewfinder marks -->
+  <g fill="none" stroke="#efbe56" stroke-width="6" opacity="0.85">
+    <path d="M45 55h80M45 55v80"/><path d="M1555 55h-80M1555 55v80"/>
+    <path d="M45 1045h80M45 1045v-80"/><path d="M1555 1045h-80M1555 1045v-80"/>
+  </g>
+
+  <!-- texture lines -->
+  <g stroke="#f5ead7" stroke-width="2" opacity="0.18">
+    <path d="M0 275H1600M0 300H1600M0 325H1600"/>
+    <path d="M0 970H1600M0 995H1600M0 1020H1600"/>
+  </g>
+</svg>
